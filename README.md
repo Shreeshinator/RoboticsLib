@@ -2,7 +2,8 @@
 
 A clean, zero-dependency robotics library for **STM32 HAL** projects.  
 Drop the `Inc/` and `Src/` folders into any STM32CubeIDE / Makefile project — no framework, no RTOS required.
-**Note:** By be sure to inspect how many and which timer to use for each peripheral.\
+**Note:** By be sure to inspect how many and which timer to use for each peripheral.
+\
 Also, this library assumes a motor driver with separate PWM, IN1, IN2 channels for each motor
 
 
