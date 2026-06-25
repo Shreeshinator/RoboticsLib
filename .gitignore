@@ -1,0 +1,28 @@
+# Build artefacts
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# CubeMX / STM32CubeIDE
+*.ioc
+.project
+.cproject
+.settings/
+Debug/
+Release/
+
+# IDEs
+.vscode/
+*.uvprojx
+*.uvoptx
+*.uvguix
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
